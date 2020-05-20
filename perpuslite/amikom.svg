@@ -7,14 +7,14 @@
         <rect width="119" height="20" rx="3" fill="#fff"/>
     </mask>
     <g mask="url(#a)">
-        <rect width="119" height="20" fill="#555"/>
-        <rect x="36" width="119" height="20" fill="#99004d"/>
+        <rect width="36" height="20" fill="#555"/>
+        <rect x="36" width="83" height="20" fill="#99004d"/>
         <rect width="119" height="20" fill="url(#b)"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-        <text x="19" y="15" fill="#010101" fill-opacity=".3">Kampus</text>
-        <text x="19" y="14">Kampus</text>
-        <text x="76.5" y="15" fill="#010101" fill-opacity=".3">Amikom</text>
-        <text x="76.5" y="14">Amikom</text>
+        <text x="19" y="15" fill="#010101" fill-opacity=".3">our</text>
+        <text x="19" y="14">our</text>
+        <text x="76.5" y="15" fill="#010101" fill-opacity=".3">AMIKOM</text>
+        <text x="76.5" y="14">AMIKOM</text>
     </g>
 </svg>
